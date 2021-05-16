@@ -1,5 +1,5 @@
 [package]
-name = "rs-grep"
+name = "rsgrep"
 version = "0.1.0"
 authors = ["fiandimas <kidaliez@gmail.com>"]
 edition = "2018"
